@@ -1,0 +1,4 @@
+.DS_Store
+instruction.md
+archive/*
+!.gitkeep
